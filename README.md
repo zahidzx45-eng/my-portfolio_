@@ -27,8 +27,8 @@ building web pages with backend
 contributing to collaborative projects
 
 # contact_
-Mohammed Zahid linkedin profile
-
+ linkedin profile:Mohammed Zahid
+gmail:zahidzx45@gmail.com
 
 
 
